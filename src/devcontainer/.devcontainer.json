@@ -1,0 +1,15 @@
+{
+  "build": {
+    "context": ".",
+    "dockerfile": "./Dockerfile"
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "eamodio.gitlens",
+        "ms-vscode.live-server",
+        "GitHub.copilot"
+      ]
+    }
+  }
+}
