@@ -1,1 +1,8 @@
 # codespace-202402-ubuntu
+
+This repository publishes:
+* Multi-platform Docker image,
+* Multi-platform Devcontainer prebuild with extensions,
+
+To accelerate further, enable Codespaces to prebuild in respective repositories:
+* https://docs.github.com/en/codespaces/prebuilding-your-codespaces
