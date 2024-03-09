@@ -8,3 +8,7 @@ This repository publishes:
 To accelerate further, enable Codespaces to prebuild in respective repositories:
 
 * https://docs.github.com/en/codespaces/prebuilding-your-codespaces
+
+To use private repositories locally, authenticate GHCR with Docker:
+
+* https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-container-registry#authenticating-to-the-container-registry
